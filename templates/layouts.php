@@ -47,7 +47,7 @@
                         <h1 class="first-section__title">Рекламно-информационное агентство</h1>
                         <p class="first-section__text">Будем рады, если Вы обратитесь в наше Агентство. Мы готовы
                             предложить Вам передовые решения для продвижения Вашего бизнеса.</p>
-                        <form action="" class="callback">
+                        <form action="javasript:void(0)" class="callback">
                             <input type="tel" placeholder="Номер телефона" class="callback__input">
                             <button type="submit" class="callback__button">Обратный звонок</button>
                         </form>
