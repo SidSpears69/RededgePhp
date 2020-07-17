@@ -7,7 +7,7 @@
 
 @font-face {
 	font-family: 'Ubuntu';
-	src: local('Ubuntu Bold'), local('Ubuntu-Bold') url('../fonts/ubuntubold.woff') format('woff'), url('../fonts/ubuntubold.woff2') format('woff2'), url('../fonts/ubuntubold.ttf') format('truetype');
+	src: local('Ubuntu Bold'), local('Ubuntu-Bold'), url('../fonts/ubuntubold.woff') format('woff'), url('../fonts/ubuntubold.woff2') format('woff2'), url('../fonts/ubuntubold.ttf') format('truetype');
 	font-weight: bold;
 	font-style: normal;
 }
